@@ -1,30 +1,6 @@
-.heading{
-    text-align: center;
-    font-family: cursive
+.table{
+    border: solid black;
 }
-nav{
-    text-align: center;
-    color: purple;
-}
-h3{
-    text-align: center;
-}
-.foody img{
-    position: relative;
-    left: 410px;
-    height: 180px;
-    width: 180px;
-}
-.btn{
-    color: purple;
-    /* display: flex;
-    align-content: center; */
-    position: relative;
-    left: 616px;
-}
-.str{
-    /* display: flex;
-    text-align: center; */
-    position: relative;
-    left: 584px;
+.row1{
+    border: solid black;
 }
